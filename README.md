@@ -27,6 +27,7 @@ Un autre type de clutering (non choisi): clustering spatial de dirichlet:
 
 Par ailleurs, un nouvel indicateur est conçu pour décrire l'inégalité de répartition des mouvements politiques au regard de leur score national obtenu
 Cet indicateur est basé que la mesure du Gini comparée au Gini d'une situation de scrutin proportionnel. On voit ainsi l'évolution de cet indicateur (plus il est élevé plus l'inégalité est forte) selon plusieurs paramètres du scrutin:
+
 ![](animation_sensibilite_0.5s.gif)
 
 
